@@ -1,0 +1,23 @@
+# Environnement virtuel
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Données
+data/raw/
+data/processed/
+
+# Logs
+logs/
+*.log
+
+# Base de données
+database/*.db
+
+# macOS
+.DS_Store
+
+# Variables d'environnement
+.env
